@@ -1,0 +1,278 @@
+[
+    {
+      "name": "__kla_id",
+      "value": "eyJjaWQiOiJNR0V3TVRFNE9UUXRZekUzTUMwME56QTJMV0UwWmpJdE56QmpNekZrTUdKaU9HWmoi",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893551,
+      "size": 536,
+      "httpOnly": false,
+      "secure": true,
+      "session": false
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "53400476-cdf9-48c6-bdee-c578c68f2e326cb9eb",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673367486,
+      "size": 54,
+      "httpOnly": true,
+      "secure": true,
+      "session": false
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "23e7b55a-cda0-4663-8785-00e65f0ce68b6ccb95",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673359686,
+      "size": 54,
+      "httpOnly": true,
+      "secure": true,
+      "session": false
+    },
+    {
+      "name": "__zlcmid",
+      "value": "1IGmBWfcjHrfl3Y",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673361550,
+      "size": 23,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "_ALGOLIA",
+      "value": "anonymous-47c9d73b-28ab-4da9-8644-532f1c1228ce",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1672813694,
+      "size": 54,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_clck",
+      "value": "6828px|2|ffq|0|1377",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673361548,
+      "size": 24,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_clsk",
+      "value": "17pmyna|1696923481778|6|1|o.clarity.ms/collect",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1670367481,
+      "size": 51,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_cs_mk_ga",
+      "value": "0.9161972138093113_1696922350112",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1670369350,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=0&expire=1696924379304&logs=1&id=1790f591-76a7-4c07-816f-862c24e3392f&created=1696922347610",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1670369579,
+      "size": 100,
+      "httpOnly": false,
+      "secure": true,
+      "session": false
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1696840095078.1310167596",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1672340281,
+      "size": 33,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.377306386.1696840095",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893481,
+      "size": 29,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_ga_G43H7XVH4W",
+      "value": "GS1.1.1696922348.3.1.1696923481.0.0.0",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893481,
+      "size": 51,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_gat_UA-115741171-1",
+      "value": "1",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673359131,
+      "size": 20,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1261729609.1696840095",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1672441695,
+      "size": 32,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.871897250.1696840095",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1670367481,
+      "size": 30,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1676060895,
+      "size": 18,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_ttp",
+      "value": "5FEggFQ4l7fYANpZQDcctprRQ9x",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1676060895,
+      "size": 31,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_uetsid",
+      "value": "6a0d9c40667e11ee898aa9f28388be84",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1670367481,
+      "size": 39,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_uetvid",
+      "value": "6a0daff0667e11eebb8b05398d7e2789",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1676413081,
+      "size": 39,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "AeFirst61b763400f75c47ba5127ea6",
+      "value": "1696840095482",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1668641695,
+      "size": 44,
+      "httpOnly": false,
+      "secure": true,
+      "session": true
+    },
+    {
+      "name": "lfABAuth",
+      "value": "true",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893549,
+      "size": 12,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "lfABIsMember",
+      "value": "true",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893549,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "lfAuth",
+      "value": "true",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678893549,
+      "size": 10,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2023-10-09T08:28:14.949Z",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1678436894,
+      "size": 45,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Oct+10+2023+09%3A19%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=6.23.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3BBRE&AwaitingReconsent=false",
+      "domain": "lafourche.fr",
+      "path": "/",
+      "expires": 1673359147,
+      "size": 274,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    }
+  ]
+  
